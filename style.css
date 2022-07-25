@@ -1,0 +1,11 @@
+.footer-content{
+    height: 300px;
+    background-color: black;
+}
+.footer-left{
+    margin-top: 11px;
+}
+.footer-value{
+    margin-top: 1px;
+    margin-left: 50px;
+}
